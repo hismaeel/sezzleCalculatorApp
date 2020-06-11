@@ -19,3 +19,4 @@ Installation:
   3. npm start
   4. navigate to https://localhost:8000 
  
+<img src="Untitled.png" height="400">
