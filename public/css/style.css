@@ -1,0 +1,23 @@
+.cell{
+    padding-right: 22px;
+    padding-left: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+.exp {
+color: forestgreen
+}
+.res {
+color: darkblue
+}
+#table {
+padding-top: 25px;
+}
+.error {
+    color: red;
+    border-color: darkred;
+}
+.normal {
+    color: black;
+    border-color: black;
+}

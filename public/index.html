@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<script src="/socket.io/socket.io.js"></script>
+<script src="./js/index.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+<form action="javascript:validateForm();">
+	 <label for="expression">Enter Valid expression here:</label>
+  <input type="text" id="expression" name="expression">
+<input type="submit" value="Calculate">
+</form>
+<button onclick="clearLog();">Clear Log (Applies to all clients)</button>
+</body>
+</html>
