@@ -1,0 +1,6 @@
+{
+  "name": "Sezzle Calculator",
+  "description": "Demo App",
+  "repository": "https://github.com/hismaeel/sezzleCalculatorApp",
+  "keywords": ["node", "express", "heroku"]
+}
