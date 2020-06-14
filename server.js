@@ -37,6 +37,6 @@ socket.emit('my error', {});
 });
 });
 
-server.listen(8000, () => {
+server.listen(process.env.PORT || 5000, () => {
   console.log('Calculator log App!');
 });
