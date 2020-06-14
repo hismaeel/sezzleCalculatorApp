@@ -8,7 +8,7 @@ Description:
 <br/>
 Features:
 <br/>
-  a. Has a "clear log" button, that for now clears the log acros all clients
+  a. Has a "clear log" button, that, for now, clears the log acros all clients (upon refresh for other clients)
   <br/>
   b. If entered expresion in invalid, the box turns red, notifying that the expression is not valid
   <br/>
